@@ -3,7 +3,7 @@ function start() {
     var score=0;
     var m=0;
     var x=document.getElementById('bird');
-    x.style.bottom=((Math.random()*60 + 60)) + "px";
+    x.style.bottom=((Math.random()*60 + 60)) + "px"; 
     var flag=1;
     document.getElementById("playButton").style.visibility = "hidden";
     var i = 0;
