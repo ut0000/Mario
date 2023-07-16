@@ -24,9 +24,4 @@ Game Rules:
 7) On collecting the coins the score will increase and difficulty level increases accordingly.
 
 
-Team Members:-  Hargun Singh,Aradhya Mittal.
-
-
-					                                Regards
-
-                                                Thank You  SI, for allotting us this project.
+Team Members:-  Hargun Singh, Utkarsh Singh.
